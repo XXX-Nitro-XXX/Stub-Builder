@@ -1,0 +1,4 @@
+Sup, Download this then extract to desktop then open the .py file
+USERNAME (root)
+
+PASSWORD (root)
